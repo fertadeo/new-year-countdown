@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@410&display=swap');
+
+body{
+  background-image: url('https://images.pexels.com/photos/1424246/pexels-photo-1424246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+min-height: 100vh;
+max-width: 100vw;
+background-size: cover;
+display: flex;
+flex-direction: column;
+/* justify-content: center; */
+align-items: center;
+background-position: center bottom;
+font-family: 'Rubik', sans-serif;
+color: #fff;
+
+
+
+}
+
+.countdown-container{
+  display: flex;
+  font-weight: normal;
+}
+
+h1{
+  font-size: 5rem;
+  margin-top: 6rem;
+
+}
+
+.big-text{
+  font-weight: bold;
+  font-size: 4rem;
+  line-height: 1;
+  margin: 0 2.5rem;
+  margin-top: 1.5rem;
+  /* border: solid 2px blue; */
+
+}
+
+.countdown-el span{
+  text-align: center;
+  /* border: 2px solid red; */
+  width: 50px;
+  font-size: 1.5rem;
+}
+
+.countdown-el{
+  /* border: 2px solid green; */
+  text-align: center;
+}
