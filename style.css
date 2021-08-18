@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@410&display=swap');
@@ -19,9 +18,6 @@ align-items: center;
 background-position: center bottom;
 font-family: 'Rubik', sans-serif;
 color: #fff;
-
-
-
 }
 
 .countdown-container{
@@ -32,7 +28,6 @@ color: #fff;
 h1{
   font-size: 5rem;
   margin-top: 6rem;
-
 }
 
 .big-text{
@@ -41,18 +36,12 @@ h1{
   line-height: 1;
   margin: 0 2.5rem;
   margin-top: 1.5rem;
-  /* border: solid 2px blue; */
-
 }
-
 .countdown-el span{
   text-align: center;
-  /* border: 2px solid red; */
   width: 50px;
   font-size: 1.5rem;
 }
-
 .countdown-el{
-  /* border: 2px solid green; */
   text-align: center;
 }
