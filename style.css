@@ -30,6 +30,8 @@ color: #fff;
 h1{
   font-size: 5rem;
   margin-top: 6rem;
+  text-align: center;
+  text-shadow: 6px 3px 6px #000;
 }
 
 .big-text{
@@ -38,6 +40,7 @@ h1{
   line-height: 1;
   margin: 0 2.5rem;
   margin-top: 1.5rem;
+  text-shadow: 6px 3px 6px #000;
 }
 .countdown-el span{
   text-align: center;
